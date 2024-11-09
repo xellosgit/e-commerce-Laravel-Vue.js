@@ -1,4 +1,4 @@
-#E-commerce Platform 🛒
+E-commerce Platform 🛒
 
 A fully functional **E-commerce application** built using **Laravel**, **Vue.js**, **Tailwind CSS**, and **Inertia.js**, with seamless **Stripe payment** integration. This project is designed to provide a robust online shopping experience with a modern tech stack.
 
